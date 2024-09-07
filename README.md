@@ -18,6 +18,8 @@ SEQUELIZE
 
 #Acceder a la carpeta e instalar las dependencias 
 
+-> cd flores_api
+
 -> npm install
 
 
